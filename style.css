@@ -117,6 +117,10 @@ header > h4 {
 	border-radius: 10px;
 }
 
+.shaun-profile-image > img {
+	max-width: 100%;
+}
+
 .social-buttons {
 	display: flex;
 	flex-direction: column;
